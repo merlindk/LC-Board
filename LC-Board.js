@@ -26,7 +26,6 @@ var displayDefects;
 		 for(i = 0 ; i < contrNames.length ; i++){
 		 	contributors.push(new contributor(contrNames[i], new Date(1), 0, false, uids[i]));
 		 }
-		 console.log(results);
 		 //filtering all the defects to pull only LC that have an Owner
 		 for (i=0 ; i < results.defects.length ; i++) {
 		 	defect = results.defects[i];
