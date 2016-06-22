@@ -50,7 +50,6 @@ var displayDefects;
 		 
 		 //Drawing some HTML stuff
 		 var aDiv = document.getElementById("aDiv");
-		 aDiv.innerHTML = '<strong>Launch Critical Board</strong><br/><br>';
 		 
 		 aTable = document.getElementById("aTable");
          aTable.innerHTML = '';
