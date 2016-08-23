@@ -18,8 +18,8 @@ var displayDefects;
 		 	var defect = "";
 		 	var gather = [];
 		 //String list of the people who process LC defects(from now on "Contributors")
-		 var contrNames = ['Gaston Nieto', 'Franco B', 'Juan Barrionuevo', 'Merlin N', 'Jimena Barseghian', 'Gabriel Uanini', 'Alejandro Sosa', 'Guido C', 'Pablo Gimenez'];
-		 var uids = ['gnieto', 'fbostico', 'jbarrionuevo', 'mnunez', 'jbarseghian', 'guanini', 'asosa', 'gcresta', 'pgimenez'];
+		 var contrNames = ['Patricio P', 'Mario M', 'Franco B', 'Juan Barrionuevo', 'Merlin N', 'Jimena Barseghian', 'Gabriel Uanini', 'Alejandro Sosa', 'Guido C', 'Pablo Gimenez'];
+		 var uids = ['ppage', 'mmunoz''fbostico', 'jbarrionuevo', 'mnunez', 'jbarseghian', 'guanini', 'asosa', 'gcresta', 'pgimenez'];
 		 
 		 var contributors = [];
 		 //creating the list of contributors
